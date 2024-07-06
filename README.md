@@ -20,8 +20,8 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### LINKS
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repositore](https://github.com/Pabloodev/article-preview-component)
+- Live Site URL: [URL Site](https://pabloodev.github.io/article-preview-component/)
 
 ## My process
 
